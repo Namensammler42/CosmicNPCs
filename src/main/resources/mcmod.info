@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cosmicnpcs",
+  "name": "CosmicNPCs",
+  "description": "A further developed version of the Mocap Mod (Which was made by EchebKeso). Allows to record the players movement and replay it as an NPC.",
+  "version": "1.1.0",
+  "mcversion": "1.7.10",
+  "url": "https://minecraft.curseforge.com/projects/cosmicnpcs",
+  "updateUrl": "",
+  "authorList": ["Namensammler42"],
+  "credits": "Namensammler42, EchebKeso",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
